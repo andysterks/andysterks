@@ -13,10 +13,10 @@
 
 Languages & Tools:
 
-![dot net icon](images/dot-net.webp)
 ![c sharp icon](images/c-sharp.png)
 ![javascript](images/js.png)
+![react icon](images/react.png)
 ![html](images/html-5.png)
 ![css](images/css.png)
-![react](images/react.png)
+![postgres icon](images/postgre.png)
 ![visual studio code](images/visual-studio-code.png)
