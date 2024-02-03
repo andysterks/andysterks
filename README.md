@@ -2,8 +2,8 @@
 
 ## Full Stack Software Developer
 
-- ![software engineer icon](images/software-engineer.png) Self-taught programmer creating software since 2015
-- ![testing code icon](images/testing.png) Big fan of automated testing, continous delivery and clean coding practices
+- 👨‍💻 Self-taught programmer creating software since 2015
+- 🧑‍🔬 Big fan of automated testing, continous delivery and clean coding practices
 - ![youtube icon](images/youtube.png) I create YouTube videos about how to become a self-taught software developer
 
 ### Connect with me:
