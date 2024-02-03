@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Andy
+### 👋 Hi there, I'm Andy Sterkowitz
 
 ## Full Stack Software Developer
 
