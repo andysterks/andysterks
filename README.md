@@ -4,7 +4,7 @@
 
 - 👨‍💻 Self-taught programmer creating software since 2015
 - 🧑‍🔬 Big fan of automated testing, continous delivery and clean coding practices
-- ![youtube icon](images/youtube.png) I create YouTube videos about how to become a self-taught software developer
+- ![youtube icon](images/youtube.png) Creator on YouTube with 350k subscribers at [youtube.com/@andysterkowitz](https://www.youtube.com/@AndySterkowitz)
 
 ### Connect with me:
 
@@ -14,13 +14,11 @@
 
 Languages & Tools:
 
-<img align="left" alt="JavaScript" width="24px" src="images/dot-net.webp" />
-
 ![c sharp icon](images/c_sharp.png)
+![visual studio icon](images/visual_studio.png)
 ![javascript](images/js.png)
 ![react icon](images/react.png)
 ![html](images/html_5.png)
 ![css](images/css.png)
 ![postgres icon](images/postgre.png)
 ![visual studio code](images/visual_studio_code.png)
-![visual studio icon](images/visual_studio.png)
